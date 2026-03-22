@@ -115,4 +115,4 @@ Spotify-Hit-Song-Prediction-Model/
 ## 📓 Kaggle Notebook
 
 Projenin tam notebook versiyonuna aşağıdaki linkten ulaşabilirsiniz:  
-🔗 *[Kaggle linki yakında eklenecek]*
+🔗 *https://www.kaggle.com/code/tolgaozkul/spotify-hit-prediction-model*
